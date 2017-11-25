@@ -1,0 +1,11 @@
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\bin\Debug\FileCabinet.exe.config
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\bin\Debug\FileCabinet.exe
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\bin\Debug\FileCabinet.pdb
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\obj\Debug\FileCabinet.csprojResolveAssemblyReference.cache
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\obj\Debug\FileCabinet.Form1.resources
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\obj\Debug\FileCabinet.Properties.Resources.resources
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\obj\Debug\FileCabinet.csproj.GenerateResource.Cache
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\obj\Debug\FileCabinet.exe
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\obj\Debug\FileCabinet.pdb
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\obj\Debug\FileCabinet.Form2.resources
+C:\Users\dms\documents\visual studio 2017\Projects\RecordsDatabase\FileCabinet\obj\Debug\FileCabinet.csproj.CoreCompileInputs.cache
