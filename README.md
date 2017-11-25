@@ -15,4 +15,4 @@ Code for a feature rich database application that replaces a paper File Cabinet 
 
 If the database doesn't load right away, try again.  Sometimes the server takes time to spin up.
 
-By default, the program will attempt to locate the database file at C:\Program Files\FileCabinet.  Be sure the database file is in this directory.  Alternatively, you can specify a different directory in the program.
+By default, the program will attempt to locate the database file at C:\Program Files\FileCabinet.  Be sure the database file is in this directory.  Alternatively, you can specify a different directory by running the application and clicking on the button "Load a Database File...".
